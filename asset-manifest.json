@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/isupplycentralgh/static/css/main.85a90b66.css",
-    "main.js": "/isupplycentralgh/static/js/main.3b35123d.js",
+    "main.css": "/isupplycentralgh/static/css/main.cafe6447.css",
+    "main.js": "/isupplycentralgh/static/js/main.55e699be.js",
     "index.html": "/isupplycentralgh/index.html",
-    "main.85a90b66.css.map": "/isupplycentralgh/static/css/main.85a90b66.css.map",
-    "main.3b35123d.js.map": "/isupplycentralgh/static/js/main.3b35123d.js.map"
+    "main.cafe6447.css.map": "/isupplycentralgh/static/css/main.cafe6447.css.map",
+    "main.55e699be.js.map": "/isupplycentralgh/static/js/main.55e699be.js.map"
   },
   "entrypoints": [
-    "static/css/main.85a90b66.css",
-    "static/js/main.3b35123d.js"
+    "static/css/main.cafe6447.css",
+    "static/js/main.55e699be.js"
   ]
 }
