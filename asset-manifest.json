@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/isupplycentralgh/static/css/main.f855e6bc.css",
-    "main.js": "/isupplycentralgh/static/js/main.f6ed5694.js",
+    "main.css": "/isupplycentralgh/static/css/main.958d6783.css",
+    "main.js": "/isupplycentralgh/static/js/main.648d1a5c.js",
     "static/js/453.e5d03a84.chunk.js": "/isupplycentralgh/static/js/453.e5d03a84.chunk.js",
     "static/media/logo.svg": "/isupplycentralgh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/isupplycentralgh/index.html",
-    "main.f855e6bc.css.map": "/isupplycentralgh/static/css/main.f855e6bc.css.map",
-    "main.f6ed5694.js.map": "/isupplycentralgh/static/js/main.f6ed5694.js.map",
+    "main.958d6783.css.map": "/isupplycentralgh/static/css/main.958d6783.css.map",
+    "main.648d1a5c.js.map": "/isupplycentralgh/static/js/main.648d1a5c.js.map",
     "453.e5d03a84.chunk.js.map": "/isupplycentralgh/static/js/453.e5d03a84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f6ed5694.js"
+    "static/css/main.958d6783.css",
+    "static/js/main.648d1a5c.js"
   ]
 }
