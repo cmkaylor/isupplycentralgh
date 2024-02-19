@@ -1,10 +1,12 @@
 import React from "react";
 import '../index.css'
+import Screws from "../imgs/screws.jpg"
 
 const Home = () => {
     return (
         <body 
-        class="bg-gray-100 flex flex-col h-screen justify-between">
+        class="bg-gray-100 flex flex-col h-screen justify-between" 
+        style={{backgroundImage:`url(${Screws})`, backgroundPosition: 'center', backgroundSize: 'cover'}}>
             <main class="container mx-auto py-6 rounded-lg bg-gray-900 border-4 border-green-500">
                 <section class="text-center">
                     <h2 class="text-white text-4xl font-bold mb-4">Welcome to Industrial Supply & Service</h2>
