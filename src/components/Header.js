@@ -1,6 +1,8 @@
 import React from "react";
 import '../index.css'
 import { useNavigate } from "react-router-dom";
+import Dropdown from "./Dropdown";
+import { Button } from "@material-tailwind/react";
 
 const Header = () => {
     let navigate = useNavigate();
@@ -12,8 +14,10 @@ const Header = () => {
             </div>
             <nav class="bg-gray-900">
                 <ul class="flex justify-center">
-                    <button onClick={() => navigate("/Home")}>Home</button>
-                    <button onClick={() => navigate("/About")}>About</button>
+                    <Button onClick={() => navigate("/Home")}>Home</Button>
+                    <Button onClick={() => navigate("/About")}>About</Button>
+                    <Dropdown title="Products"/>
+                    <Dropdown title="Services"/>
                 </ul>
             </nav>
         </header>
